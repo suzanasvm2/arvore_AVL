@@ -8,3 +8,6 @@ A Árvore AVL é uma estrutura de dados que mantém a propriedade de balanceamen
 <p> Verificação da existência de um valor na árvore AVL.</p>
 <p> Remoção de um nó da árvore AVL.</p>
 <p> Impressão da árvore AVL.</p>
+<p>
+<img src="img/projeto_avl.png" alt="Demonstração da Aplicação">
+</p>
